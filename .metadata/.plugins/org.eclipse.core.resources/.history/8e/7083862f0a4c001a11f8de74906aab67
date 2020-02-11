@@ -1,0 +1,35 @@
+package com.capgemini.librarymanagementsystem.serviceimpl;
+
+import com.capgemini.librarymanagementsystem.dto.AdminDto;
+import com.capgemini.librarymanagementsystem.service.AdminInterface;
+
+
+
+public class Admin implements AdminInterface {
+
+	@Override
+	public int addUser(String username, String password, String usertype) {
+		return 0;
+	}
+
+	@Override
+	public boolean removeUser(int userid) {
+		return false;
+	}
+
+	@Override
+	public int addbook(String bookid, String bookname) {
+		return 0;
+	}
+
+	@Override
+	public boolean removebook(String bookid) {
+		return false;
+	}
+
+	@Override
+	public int viewbook(int books) {
+		return 0;
+	}
+
+}

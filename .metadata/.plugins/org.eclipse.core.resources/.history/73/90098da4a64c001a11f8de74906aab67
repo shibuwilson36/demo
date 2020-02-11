@@ -1,0 +1,29 @@
+ package com.capgemini.librarymanagementsystem.controller;
+
+import java.util.Scanner;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+public class StudentController {
+	static Logger log = LogManager.getLogger("student");
+void details() {
+	
+	log.info("Student Selected");
+	log.info("Please Login");
+	Scanner scanner = new Scanner(System.in);
+	log.info("Enter student id");
+	int id = scanner.nextInt();
+	log.info("Enter password");
+	String password = scanner.next();
+	log.info("Student logged in successfully");
+	log.info(" Choose student operations: ");
+	log.info("1.Search book");
+	
+	log.info("2.Borrow book");
+	log.info("3.Return book");
+	
+	
+	
+}
+}

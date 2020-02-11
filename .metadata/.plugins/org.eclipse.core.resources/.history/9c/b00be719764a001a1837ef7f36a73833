@@ -1,0 +1,8 @@
+package com.capgemini.librarymanagementsystem.dao;
+
+public interface AdminDao {
+
+	void register();
+	
+	
+}

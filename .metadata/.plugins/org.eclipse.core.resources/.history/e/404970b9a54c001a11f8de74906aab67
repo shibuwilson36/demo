@@ -1,0 +1,14 @@
+package com.capgemini.librarymanagementsystem.service;
+
+import java.util.List;
+
+public interface StudentInterface {
+
+	List<String> searchBook();
+	void borrowBook();
+	void returnBook();
+	
+	
+	
+	
+}

@@ -1,0 +1,8 @@
+ package com.capgemini.librarymanagementsystem.controller;
+
+public class StudentController {
+void details() {
+	
+	System.out.println("Student Selected");
+}
+}

@@ -1,0 +1,76 @@
+package com.capgemini.librarymanagementsystem.dto;
+
+public class User {
+
+	private int Id;
+	private String User_name;
+	private String Password;
+	private String Email;
+	private long Contact;
+	
+	private int Book_id;
+	private String Book_name;
+	private String Author_name;
+	private int Price;
+	private int Quantity;
+	
+	private String Borrow_date;
+	private String Return_date;
+	
+	public int getId() {
+		return Id;
+	}
+	public void setId(int id) {
+		Id = id;
+	}
+	public String getName() {
+		return User_name;
+	}
+	public void setName(String name) {
+		User_name = name;
+	}
+	public String getPassword() {
+		return Password;
+	}
+	public void setPassword(String password) {
+		Password = password;
+	}
+	public String getEmail() {
+		return Email;
+	}
+	public void setEmail(String email) {
+		Email = email;
+	}
+	public long getContact() {
+		return Contact;
+	}
+	public void setContact(long contact) {
+		Contact = contact;
+	}
+	
+	
+	public String getBorrow_date() {
+		return Borrow_date;
+	}
+	public void setBorrow_date(String borrow_date) {
+		Borrow_date = borrow_date;
+	}
+	public String getReturn_date() {
+		return Return_date;
+	}
+	public void setReturn_date(String return_date) {
+		Return_date = return_date;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

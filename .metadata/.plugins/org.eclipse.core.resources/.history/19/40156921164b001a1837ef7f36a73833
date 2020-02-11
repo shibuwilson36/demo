@@ -1,0 +1,51 @@
+package com.capgemini.librarymanagementsystem.serviceimpl;
+
+import com.capgemini.librarymanagementsystem.dto.AdminDto;
+import com.capgemini.librarymanagementsystem.service.AdminInterface;
+
+
+public class Admin implements AdminInterface {
+
+	@Override
+	public int addUser(AdminDto a) {
+		a.getID();
+		return 0;
+	}
+
+	@Override
+	public boolean removeUser() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public int addBook() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public boolean removeBook() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public int viewBook() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int issueBook() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int calculateFine() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

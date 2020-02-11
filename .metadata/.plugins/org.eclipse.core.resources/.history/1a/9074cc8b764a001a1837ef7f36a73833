@@ -1,0 +1,18 @@
+package com.capgemini.librarymanagementsystem.daoimpl;
+
+public class AdminDao implements com.capgemini.librarymanagementsystem.dao.AdminDao {
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

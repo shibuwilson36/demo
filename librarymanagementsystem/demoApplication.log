@@ -1,0 +1,390 @@
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Faculty  - Faculty Selected
+[main] INFO  Faculty  - Please Login
+[main] INFO  Faculty  - Enter faculty id
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Student  - Student Selected
+[main] INFO  Student  - Please Login
+[main] INFO  Student  - Enter student id
+[main] INFO  Student  - Enter password
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For Faculty Login, press 2
+[main] INFO  Management  - For Student Login, press 3
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  Student  - Student Selected
+[main] INFO  Student  - Please Login
+[main] INFO  Student  - Enter student id
+[main] INFO  Student  - Enter password
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - au
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - au
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - Book Name    :au
+[main] INFO  student  - Author name  :book
+[main] INFO  student  - Price        :20.2
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - Book Name    :au
+[main] INFO  student  - Author name  :book
+[main] INFO  student  - Price        :20.2
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - No Book found
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - No Book found
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - Book Name    :au
+[main] INFO  student  - Author name  :book
+[main] INFO  student  - Price        :20.2
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - ------All Books---------
+[main] INFO  student  - ------Select Book---------
+[main] INFO  student  - null)au
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - ------All Books---------
+[main] INFO  student  - ------Select Book---------
+[main] INFO  student  - null)au
+[main] INFO  student  - 11
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - ------All Books---------
+[main] INFO  student  - ------Select Book---------
+[main] INFO  student  - null)au
+[main] INFO  student  - 11/1/120
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  admin  - Admin Selected
+[main] INFO  admin  - Enter username: 
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - ------All Books---------
+[main] INFO  student  - ------Select Book---------
+[main] INFO  student  - null)au
+[main] INFO  student  - 11/11/120
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - ------All Books---------
+[main] INFO  student  - ------Select Book---------
+[main] INFO  student  - null)au
+[main] INFO  student  - Tue Feb 11 22:09:01 IST 2020
+[main] INFO  Management  - Welcome to Library Management System
+[main] INFO  Management  - Select from the following options:
+[main] INFO  Management  - For Admin Login, press 1
+[main] INFO  Management  - For User Login, press 2
+[main] INFO  student  - Student Selected
+[main] INFO  student  - Please Login
+[main] INFO  student  - Enter student id
+[main] INFO  student  - Enter password
+[main] INFO  student  - Student logged in successfully
+[main] INFO  student  -  Choose student operations: 
+[main] INFO  student  - 1.Search book
+[main] INFO  student  - 2.Borrow book
+[main] INFO  student  - 3.Return book
+[main] INFO  student  - ------All Books---------
+[main] INFO  student  - ------Select Book---------
+[main] INFO  student  - null)au
+[main] INFO  student  - 11/2/120

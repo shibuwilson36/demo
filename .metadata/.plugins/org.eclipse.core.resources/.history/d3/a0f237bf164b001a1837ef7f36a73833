@@ -1,0 +1,25 @@
+package com.capgemini.librarymanagementsystem.serviceimpl;
+
+import com.capgemini.librarymanagementsystem.service.StudentInterface;
+
+public class Student implements StudentInterface{
+
+	@Override
+	public void searchBook() {
+		
+		
+	}
+
+	@Override
+	public void borrowBook() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void returnBook() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

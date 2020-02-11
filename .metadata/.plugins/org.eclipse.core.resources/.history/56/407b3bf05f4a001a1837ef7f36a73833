@@ -1,0 +1,15 @@
+package com.capgemini.librarymanagementsystem.controller;
+
+public class AdminController {
+
+	void details() {
+		
+		System.out.println("Admin is Selected");
+	}
+	
+	
+	
+	
+	
+	
+}

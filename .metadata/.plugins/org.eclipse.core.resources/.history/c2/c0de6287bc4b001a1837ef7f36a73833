@@ -1,0 +1,12 @@
+package com.capgemini.librarymanagementsystem.service;
+
+public interface StudentInterface {
+
+	void searchBook();
+	void borrowBook();
+	void returnBook();
+	
+	
+	
+	
+}

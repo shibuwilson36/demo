@@ -1,0 +1,10 @@
+package com.capgemini.librarymanagementsystem.service;
+
+public interface FacultyInterface {
+	
+	void searchBook();
+	void borrowBook();
+	void returnBook();
+	
+
+}

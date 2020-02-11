@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.service.AdminInterface"/>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.dao.AdminDao"/>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.dto.AdminDto"/>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.dao.AdminDaoInterface"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Driver"/>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.dto.StudentDto"/>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.dao.StudentDaoInterface"/>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.service.StudentInterface"/>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.serviceimpl.Student"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.apache.log4j.LogManager"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="org.mindrot.jbcrypt.BCrypt"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="util.PasswordEncoder"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+</qualifiedTypeNameHistroy>

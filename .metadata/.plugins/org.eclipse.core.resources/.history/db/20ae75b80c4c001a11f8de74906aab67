@@ -1,0 +1,16 @@
+package com.capgemini.librarymanagementsystem.service;
+
+import com.capgemini.librarymanagementsystem.dto.AdminDto;
+
+public interface AdminInterface {
+
+	
+	int addUser(String username, String password, String usertype);
+	boolean removeUser(int userid);
+	int addBook(String bookid, String bookname);
+	boolean removeBook(String bookid);
+	int viewBook(int books);
+	
+	
+	
+}

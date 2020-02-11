@@ -1,0 +1,12 @@
+1581138783871	Rename package 'com.capgemini.librarymanagementsystem.daoimpl'
+1581138835297	Rename package 'com.capgemini.librarymanagementsystem.dao.impl'
+1581139166390	Rename package 'com.capgemini.librarymanagementsystem.dao.impl'
+1581140555203	Delete element
+1581140833421	Delete element
+1581140847965	Delete element
+1581157692806	Move file
+1581164023737	Rename package 'com.capgemini.librarymanagementsystem.service.impl'
+1581164065920	Rename package 'com.capgemini.librarymanagementsystem.dao.impl'
+1581166260904	Rename type 'Admin'
+1581166268868	Rename type 'Faculty'
+1581168378675	Rename type 'AdminDao'

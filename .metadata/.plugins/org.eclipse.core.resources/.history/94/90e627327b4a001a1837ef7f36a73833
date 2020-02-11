@@ -1,0 +1,75 @@
+package com.capgemini.librarymanagementsystem.daoimpl;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import com.capgemini.librarymanagementsystem.dao.AdminDaoInterface;
+import com.capgemini.librarymanagementsystem.dto.AdminDto;
+
+
+public class AdminDao implements AdminDaoInterface  {
+
+	@Override
+	public void register(AdminDto admin) {
+		
+		Connection conn =null;
+		PreparedStatement pstmt = null;
+		ResultSet rs = null;
+		
+		try {
+		
+		Class.forName("com.mysql.jdbc.Driver").newInstance(); // more beneficial
+		
+		String dburl = "jdbc:mysql://localhost:3306/librarymanagementsystem_db";
+		
+		conn = DriverManager.getConnection(dburl, "root", "root");
+		 
+		String query = "";
+		pstmt = conn.prepareStatement(query);
+		pstmt.setString(1, admin.getUser_type());
+		pstmt.setInt(2, admin.getID());
+		pstmt.setString(3, admin.getUsername());
+		pstmt.setString(4, admin.getPassword());
+		pstmt.setString(5, admin.getEmail());
+		pstmt.setLong(6, admin.getContact());
+		
+		
+		
+	} catch(Exception e){
+		e.printStackTrace();
+	} finally {
+		try {
+		if(conn!= null) {
+			conn.close();
+		}
+		if(pstmt!= null) {
+			pstmt.close();
+		
+	} if(rs!=null) {
+		rs.close();
+	}
+
+	} catch (SQLException e) {
+		e.printStackTrace();
+	}
+		
+	}
+
+}	
+
+
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

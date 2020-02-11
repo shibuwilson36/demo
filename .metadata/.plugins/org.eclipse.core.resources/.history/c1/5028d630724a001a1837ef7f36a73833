@@ -1,0 +1,14 @@
+package com.capgemini.librarymanagementsystem.service;
+
+public interface AdminInterface {
+
+	
+	int addUser(AdminDto a);
+	boolean removeUser();
+	int addBook();
+	boolean removeBook();
+	int viewBook();
+	int issueBook();
+	
+	
+}

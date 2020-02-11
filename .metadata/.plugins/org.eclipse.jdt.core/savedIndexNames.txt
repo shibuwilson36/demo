@@ -1,0 +1,12 @@
+INDEX VERSION 1.130+C:\Users\DELL\Desktop\Library Management System\.metadata\.plugins\org.eclipse.jdt.core
+3904669849.index
+3233512177.index
+96058254.index
+2235267327.index
+583340206.index
+3126434910.index
+2137912505.index
+4137001652.index
+3704935221.index
+2996043717.index
+2339894250.index

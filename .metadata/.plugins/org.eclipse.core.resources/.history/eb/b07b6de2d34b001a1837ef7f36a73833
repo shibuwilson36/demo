@@ -1,0 +1,30 @@
+package util;
+
+import java.util.Scanner;
+
+import org.mindrot.jbcrypt.BCrypt;
+
+public class PasswordValidator {
+ public static void passwordValidator(String plainPassword, String hashedPassword) {
+	 
+	 BCrypt.checkpw("qwerty", PasswordEncoder.passwordEncoder(plainPassword));
+ }
+ 
+ public static void main(String[] args) {
+	Scanner sc = new Scanner(System.in);
+	System.out.println("enter the password to b encoded");
+	String hashedPassword = PasswordEncoder.passwordEncoder(sc.nextLine());
+	System.out.println(hashedPassword);
+	passwordValidator(plainPassword, hashedPassword);
+	sc.close();
+}
+ 
+ 
+ 
+ 
+}
+
+
+
+
+

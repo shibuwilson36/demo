@@ -1,0 +1,95 @@
+package com.capgemini.librarymanagementsystem.controller;
+
+import java.util.List;
+import java.util.Scanner;
+import com.capgemini.librarymanagementsystem.serviceimpl.Admin;
+import com.capgemini.librarymanagementsystem.dto.BookInfo;
+import com.capgemini.librarymanagementsystem.dto.User;
+
+public class AdminController {
+
+	Scanner scan = new Scanner(System.in); 
+    void  details(){
+//	System.out.println("admin is running");
+	System.out.println("Admin Login successfully");
+	System.out.println(" Choose Admin operations are:");
+	System.out.println("1.view users");
+	
+	System.out.println("2.add User");
+	System.out.println("3.delete User");
+	System.out.println("4.update User");
+	System.out.println("5.Search Book");
+	System.out.println("6.Add Book");
+	System.out.println("7.login");
+	//System.out.println("8.");
+	int i = scan.nextInt();
+	switch (i) {
+	case 1: {
+		AdminController a1 = new AdminController();
+		List<String> result = a1.viewAllUsers("Student");
+		for (String str : result) {
+			System.out.println(str);
+		}
+		break;
+	}
+	case 2: 
+	
+	{
+		
+		AdminController a2 = new AdminController();
+        
+		System.out.println(a2.add(new User("student","shivam", 19, "xcv ", "cvb", 6, 7)));
+		break;
+	}
+	case 3: {
+		AdminController a3 = new AdminController();
+		boolean delete = a3.deleteUser("1");
+		System.out.println("record deleted:" + delete);
+
+		break;
+	}
+	case 4: {
+		AdminController a4 = new AdminController();
+		boolean update = a4.updateUser("9");
+		System.out.println("record update:" + update);
+		break;
+	}
+	
+	case 5:{
+		AdminController a5=new AdminController();
+		List<String> search=a5.searchAllBook("c");
+		System.out.println("Searched book is:"+search);
+		break;
+	}
+	
+	case 6:{
+		  AdminController a6=new AdminController();
+				  
+		
+		System.out.println(a6.addbook(new BookInfo ("FE2","Data Structure","raman",300.5,10)));
+		System.out.println("Book added successfully");
+		//String addbook=a6.addbook("id");
+		//System.out.println("added book is:"+addbook);
+		
+	}
+	case 7:{
+		AdminController a5 = new AdminController();
+		a5.loginAdmin("2", "Abc");
+		
+	}
+	default: {
+		System.out.println("Invalid Choice...");
+	}
+
+	
+}
+
+}
+
+	
+	
+	
+	
+	
+	
+}

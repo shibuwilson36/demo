@@ -1,0 +1,9 @@
+package com.capgemini.librarymanagementsystem.dao;
+
+public interface StudentDaoInterface {
+
+	
+	void register(StudentDto student);
+	
+	
+}

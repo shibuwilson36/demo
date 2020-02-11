@@ -1,0 +1,11 @@
+package com.capgemini.librarymanagementsystem.dao;
+
+import com.capgemini.librarymanagementsystem.dto.User;
+
+public interface StudentInfoDao {
+
+	
+	void searchDetails(User student);
+	
+	
+}

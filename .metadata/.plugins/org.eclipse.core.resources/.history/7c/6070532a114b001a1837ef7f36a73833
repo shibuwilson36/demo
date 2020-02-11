@@ -1,0 +1,5 @@
+package com.capgemini.librarymanagementsystem.daoimpl;
+
+public class StudentDao {
+
+}

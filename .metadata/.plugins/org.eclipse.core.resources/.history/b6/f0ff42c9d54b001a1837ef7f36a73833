@@ -1,0 +1,11 @@
+package com.capgemini.librarymanagementsystem.exceptions;
+
+public class StudentException extends RunTimeException {
+	
+	String msg;
+	
+	public StudentException(msg) {
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.capgemini.librarymanagementsystem.controller;
+
+public class FacultyController {
+
+	void details() {
+		
+		System.out.println("Faculty Selected");
+	}
+	
+	
+	
+	
+	
+	
+}

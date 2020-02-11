@@ -1,0 +1,93 @@
+package com.capgemini.librarymanagementsystem.controller;
+
+import java.util.List;
+import java.util.Scanner;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+import com.capgemini.librarymanagementsystem.serviceimpl.Student;
+
+public class LibraryManagementSystem {
+
+	
+	static Logger log = LogManager.getLogger("Management");
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		log.info("Welcome to Library Management System");
+		log.info("Select from the following options:");
+		log.info("For Admin Login, press 1");
+		log.info("For Faculty Login, press 2");
+		log.info("For Student Login, press 3");
+		
+		int choice = scan.nextInt();
+		
+	    switch(choice) {
+	    
+	    case 1 : System.out.println("Which type you want to login:");
+//	    System.out.println("Which type you want to login:");
+//	    System.out.println("Which type you want to login:");
+//	    System.out.println("Which type you want to login:");
+//	    System.out.println("Which type you want to login:");
+	    break;
+	    case 2: FacultyController faculty = new FacultyController();
+	    faculty.details();
+	    break;
+	    case 3 : 
+	    System.out.println("Which type you want to login:");
+	    System.out.println("Student Login");
+	    System.out.println("Choose Student Operations:");
+//	    System.out.println("1.View student info");
+	    System.out.println("1.Search");
+	    System.out.println("2.Borrow");
+	    System.out.println("3.Return");
+	    System.out.println("4.Login");
+//	    StudentController student = new StudentController();
+//	    student.details();
+	    
+	    
+	    int i = scan.nextInt();
+	    switch(i) {
+	    case 1: {
+	    	
+	    	Student student = new Student();
+	    	List<String> search = student.searchBook();
+	    	for(String str : search ) {
+	    		System.out.println(str);
+	    	}
+	    	break;
+	    }
+	    
+	    case 2: {
+	    	Student student1 = new Student();
+//	    	System.out.println(student1.);
+	    }
+	    }
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    default:
+	    	log.info("Sorry invalid credentials! Give correct option for login");
+	    
+	    
+	    }
+		
+	    
+	    
+	    
+	    
+	    
+	    
+	}
+	
+	
+	
+	
+	
+	
+	
+}
